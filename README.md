@@ -20,5 +20,11 @@ console.log(hello_dolly('test'));//Others Default Language English
 
 The only param is `Language`.
 
+## How to contribute
+
+Feel free to `fork` and send pull requests.
+
+Multilanguage needed.
+
 ![with-love](http://forthebadge.com/images/badges/built-with-love.svg)
 
