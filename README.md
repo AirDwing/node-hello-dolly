@@ -6,6 +6,12 @@ This is not just a plugin, it symbolizes the hope and enthusiasm of an entire ge
 
 ## How to use
 
+```
+  npm install --save hello-dolly
+```
+
+Examples:
+
 ```js
 var hello_dolly = require('hello-dolly');
 
