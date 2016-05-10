@@ -1,6 +1,6 @@
 {
   "name": "hello-dolly",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hello Dolly Plugin For node.js",
   "main": "index.js",
   "scripts": {
